@@ -1,4 +1,6 @@
-# [Coin Flip](https://umar-ashraf09.github.io/Coin-Flip/)
+# Coin Flip
+
+[Coin Flip](https://umar-ashraf09.github.io/Coin-Flip/)
 
 Welcome to Coin Flip, a simple web application that simulates flipping a coin and keeps track of the number of heads and tails.
 
